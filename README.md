@@ -3,6 +3,7 @@
 Short description
 This repository contains a Power BI performance dashboard that shows monthly sales, targets, person-level metrics, trends, and highlights. The dashboard helps stakeholders get quick insights (a useful understanding) into sales performance and trends.
 
+<img width="1257" height="713" alt="image" src="https://github.com/theravendrasahu/Performance-Dashboard/blob/89add227df509320770dda2d9d8b846a16f00dfd/Dashboard%20image.png" />
 
 ---
 
